@@ -8,13 +8,13 @@ Firstly I want to introduce  myself( a local resident of ludhiana, Punjab) with 
 
 ### About Academics
 
-| Sr.no | Subject | marks | Grade |
-| ---- | --------- | ---- | ------- |
-| 1 | English | 81 | A |
-| 2 | Physics | 63 | B |
-| 3 | Chemistry | 97 |A|
-| 4 | Maths | 83 | A |
-| 5 | IP | 98 | A |
+| Sr.No | Subject | Marks | Grade |
+| ----| ------- | ------ | ----|
+| 1 |	English | 81 |	A |
+| 2 |	Physics | 79 |	B |
+| 3 |	Chemistry |	97	| A+ |
+| 4 |	Maths	| 83 | A |
+| 5 |	IP | 98| A+ |
 ### first day experience at GNE College
 The first day of my college was started with reaching to college gurudwara sahib from home.After seeking blessings of gurji before the starting of our new batch 2024-27.After that we were taken to be seated at college auditorium with other branches(CE,ME).About 30 min later,host invited **Ms Harpreet Kaur** as a first speaker of Student induction program .She was trying her best to felt us comfortable with new environment of college.She also talked about the unity in peers was the most powerful weapon of solving problem which are going to come ahead . The second speaker of program, not other than but our college principal,**Dr Sehijpal Singh**.He told us about education system and his experience of joining this college to the day where they stood before us to give introduction about his college.At last ,we were very energetic with the speech given by **S.Harjinder Dhami**.In his speech he talked about the education we received, looking forward many volunteers to solved problems with a weapon of technical education.With this,the first day of induction program ends with new thoughts and mindset.
 ## Second day experience at GNE college
