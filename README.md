@@ -9,7 +9,7 @@ Firstly I want to introduce  myself( a local resident of ludhiana, Punjab) with 
 ### About Academics
 
 | Sr.no | Subject | marks | Grade |
-|:---- |:---------:|:----:| -------:|
+|---- |---------|----|-------|
 | 1 | English | 81 | A |
 | 2 | Physics | 63 | B |
 | 3 | Chemistry | 97 |A|
